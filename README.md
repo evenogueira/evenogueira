@@ -1,7 +1,7 @@
 ## Olá, eu sou a Eve Nogueira do canal Fiz Seu Trampo ✋
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcy5x9PSHAxsNu5U0JrqP_Q)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram/fizseutrampo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fizseutrampo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram/eveline.py)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@eve.py)
 
 ![evenogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=evenogueira&show_icons=true&theme=dracula)
 
